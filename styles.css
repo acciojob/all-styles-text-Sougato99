@@ -2,13 +2,13 @@
 .main{
 	width:200px;
 	background-color:purple;
+	border-left-width:5px;
+	border-left-style:solid;
+	border-left-color:green;
 }
 #heading{
 	font-size:20px;
 	color:white;
 	text-decoration:underline;
-    border-width:5px;
-	border-style:solid;
-	border-left-color:green;
 	padding:10px;
 }
